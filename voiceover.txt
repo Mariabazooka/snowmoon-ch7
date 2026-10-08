@@ -1,0 +1,20 @@
+Record ONE continuous 84-second track (voice.wav): each line starts at its time. Silence in between. Characters' mouths move on lines marked ZEI/BAI/MU.
+NARRATOR = calm deep voice. ZEI = young male. BAI = young female. MU = warm adult female.
+
+[00:00.0 - 00:05.0] NARRATOR: Snowmoon. Chapter seven. The final round.
+[00:05.0 - 00:08.5] NARRATOR: Tomorrow, Zei faces Bai in the final.
+[00:08.5 - 00:12.0] ZEI: One more look at the strategy.
+[00:12.0 - 00:18.0] NARRATOR: Smoke rises over Dzego as the friends climb to the arena.
+[00:18.0 - 00:20.0] BAI: Zei, look at that smoke.
+[00:20.0 - 00:24.0] NARRATOR: This time, each player's AI can read the other's thoughts.
+[00:24.5 - 00:27.0] MU: Dze go ba fau gie!
+[00:28.0 - 00:34.0] NARRATOR: The battle begins. Gliders, spaceships and walls clash across the grid.
+[00:34.0 - 00:37.0] BAI: Got you. The diagonals are mine.
+[00:37.0 - 00:46.0] NARRATOR: Zei walks into the trap and falls behind, seventeen to twenty-two.
+[00:46.0 - 00:49.0] ZEI: Wait... I see it.
+[00:49.0 - 00:58.0] NARRATOR: Sixteen strategies. One hidden factory. A move Bai never saw coming.
+[00:58.0 - 01:06.0] NARRATOR: The grid turns. Fourteen to eleven, and Zei is ahead.
+[01:06.0 - 01:09.0] NARRATOR: Twelve to six. The arena erupts.
+[01:09.0 - 01:13.5] BAI: I resign. Well played, Zei.
+[01:14.0 - 01:20.0] MU: Winning is not only thinking well. It is also knowing what to hide.
+[01:20.0 - 01:24.0] NARRATOR: Zei keeps one letter. For his eyes only.
